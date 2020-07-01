@@ -17,10 +17,9 @@ cytoolz==0.10.1           # via cooler
 decorator==4.4.2          # via ipython, traitlets
 defusedxml==0.6.0         # via nbconvert
 dill==0.3.2               # via multiprocess
-display==1.0.0            # via -r requirements.txt
 entrypoints==0.3          # via nbconvert
 h5py==2.10.0              # via cooler
-importlib-metadata==1.7.0  # via jsonschema, markdown
+importlib-metadata==1.7.0  # via jsonschema
 intervaltree==3.0.2       # via coolbox
 ipykernel==5.3.0          # via ipywidgets, notebook
 ipython-genutils==0.2.0   # via nbformat, notebook, traitlets
@@ -32,17 +31,16 @@ jsonschema==3.2.0         # via nbformat
 jupyter-client==6.1.5     # via ipykernel, notebook
 jupyter-core==4.6.3       # via jupyter-client, nbconvert, nbformat, notebook
 kiwisolver==1.2.0         # via matplotlib
-markdown==3.2.2           # via -r requirements.txt
 markupsafe==1.1.1         # via jinja2
-matplotlib==3.2.2         # via -r requirements.txt, coolbox
+matplotlib==3.2.2         # via -r requirements.txt, coolbox, seaborn
 mistune==0.8.4            # via nbconvert
 multiprocess==0.70.10     # via cooler
 nbconvert==5.6.1          # via notebook
 nbformat==5.0.7           # via ipywidgets, nbconvert, notebook
 notebook==6.0.3           # via widgetsnbextension
-numpy==1.19.0             # via -r requirements.txt, coolbox, cooler, h5py, matplotlib, pandas, scipy
+numpy==1.19.0             # via -r requirements.txt, coolbox, cooler, h5py, matplotlib, pandas, scipy, seaborn
 packaging==20.4           # via bleach
-pandas==1.0.5             # via -r requirements.txt, coolbox, cooler
+pandas==1.0.5             # via -r requirements.txt, coolbox, cooler, seaborn
 pandocfilters==1.4.2      # via nbconvert
 parso==0.7.0              # via jedi
 pexpect==4.8.0            # via ipython
@@ -60,7 +58,8 @@ python-dateutil==2.8.1    # via jupyter-client, matplotlib, pandas
 pytz==2020.1              # via pandas
 pyyaml==5.3.1             # via cooler
 pyzmq==19.0.1             # via jupyter-client, notebook
-scipy==1.5.0              # via coolbox, cooler
+scipy==1.5.0              # via coolbox, cooler, seaborn
+seaborn==0.10.1           # via -r requirements.txt
 send2trash==1.5.0         # via notebook
 simplejson==3.17.0        # via cooler
 six==1.15.0               # via bleach, cooler, cycler, h5py, jsonschema, packaging, pyfaidx, pyrsistent, python-dateutil, traitlets
