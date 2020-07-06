@@ -1,0 +1,5 @@
+hub hub
+shortLabel teadhub
+longLabel teadhub
+genomesFile teadhub.genomes.txt
+email l.ferreiramoreno@amsterdamumc.nl
