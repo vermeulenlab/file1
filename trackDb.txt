@@ -1,5 +1,5 @@
 track CL40GFPfscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/CL40_GFP_f_scale.bw
+bigDataUrl tracks/CL40_GFP_f_scale.bw
 shortLabel CL40GFPfscalebw
 longLabel CL40GFPfscalebw
 type bigWig
@@ -12,7 +12,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track CL40TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/CL40_TEAD.bam.f.bw
+bigDataUrl tracks/CL40_TEAD.bam.f.bw
 shortLabel CL40TEADbamfbw
 longLabel CL40TEADbamfbw
 type bigWig
@@ -25,7 +25,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track COLO320GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/COLO320_GFP.bam.f.bw
+bigDataUrl tracks/COLO320_GFP.bam.f.bw
 shortLabel COLO320GFPbamfbw
 longLabel COLO320GFPbamfbw
 type bigWig
@@ -38,7 +38,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track COLO320TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/COLO320_TEAD.bam.f.bw
+bigDataUrl tracks/COLO320_TEAD.bam.f.bw
 shortLabel COLO320TEADbamfbw
 longLabel COLO320TEADbamfbw
 type bigWig
@@ -51,7 +51,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track GTG7GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/GTG7_GFP.bam.f.bw
+bigDataUrl tracks/GTG7_GFP.bam.f.bw
 shortLabel GTG7GFPbamfbw
 longLabel GTG7GFPbamfbw
 type bigWig
@@ -64,7 +64,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track GTG7TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/GTG7_TEAD.bam.f.bw
+bigDataUrl tracks/GTG7_TEAD.bam.f.bw
 shortLabel GTG7TEADbamfbw
 longLabel GTG7TEADbamfbw
 type bigWig
@@ -77,7 +77,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HT55GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HT55_GFP.bam.f.bw
+bigDataUrl tracks/HT55_GFP.bam.f.bw
 shortLabel HT55GFPbamfbw
 longLabel HT55GFPbamfbw
 type bigWig
@@ -90,7 +90,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HT55TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HT55_TEAD.bam.f.bw
+bigDataUrl tracks/HT55_TEAD.bam.f.bw
 shortLabel HT55TEADbamfbw
 longLabel HT55TEADbamfbw
 type bigWig
@@ -103,7 +103,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HUTU80GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HUTU80_GFP.bam.f.bw
+bigDataUrl tracks/HUTU80_GFP.bam.f.bw
 shortLabel HUTU80GFPbamfbw
 longLabel HUTU80GFPbamfbw
 type bigWig
@@ -116,7 +116,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HUTU80TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HUTU80_TEAD.bam.f.bw
+bigDataUrl tracks/HUTU80_TEAD.bam.f.bw
 shortLabel HUTU80TEADbamfbw
 longLabel HUTU80TEADbamfbw
 type bigWig
@@ -129,7 +129,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LOVOGFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LOVO_GFP.bam.f.bw
+bigDataUrl tracks/LOVO_GFP.bam.f.bw
 shortLabel LOVOGFPbamfbw
 longLabel LOVOGFPbamfbw
 type bigWig
@@ -142,7 +142,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LOVOTEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LOVO_TEAD.bam.f.bw
+bigDataUrl tracks/LOVO_TEAD.bam.f.bw
 shortLabel LOVOTEADbamfbw
 longLabel LOVOTEADbamfbw
 type bigWig
@@ -155,7 +155,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS180GFPfscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS180_GFP_f_scale.bw
+bigDataUrl tracks/LS180_GFP_f_scale.bw
 shortLabel LS180GFPfscalebw
 longLabel LS180GFPfscalebw
 type bigWig
@@ -168,7 +168,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS180TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS180_TEAD.bam.f.bw
+bigDataUrl tracks/LS180_TEAD.bam.f.bw
 shortLabel LS180TEADbamfbw
 longLabel LS180TEADbamfbw
 type bigWig
@@ -181,7 +181,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS411NGFPfscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS411N_GFP_f_scale.bw
+bigDataUrl tracks/LS411N_GFP_f_scale.bw
 shortLabel LS411NGFPfscalebw
 longLabel LS411NGFPfscalebw
 type bigWig
@@ -194,7 +194,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS411TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS411_TEAD.bam.f.bw
+bigDataUrl tracks/LS411_TEAD.bam.f.bw
 shortLabel LS411TEADbamfbw
 longLabel LS411TEADbamfbw
 type bigWig
@@ -207,7 +207,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track MDST8GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/MDST8_GFP.bam.f.bw
+bigDataUrl tracks/MDST8_GFP.bam.f.bw
 shortLabel MDST8GFPbamfbw
 longLabel MDST8GFPbamfbw
 type bigWig
@@ -220,7 +220,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track MDST8TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/MDST8_TEAD.bam.f.bw
+bigDataUrl tracks/MDST8_TEAD.bam.f.bw
 shortLabel MDST8TEADbamfbw
 longLabel MDST8TEADbamfbw
 type bigWig
@@ -233,7 +233,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track SW1463GFPbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/SW1463_GFP.bam.f.bw
+bigDataUrl tracks/SW1463_GFP.bam.f.bw
 shortLabel SW1463GFPbamfbw
 longLabel SW1463GFPbamfbw
 type bigWig
@@ -246,7 +246,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track SW1463TEADbamfbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/SW1463_TEAD.bam.f.bw
+bigDataUrl tracks/SW1463_TEAD.bam.f.bw
 shortLabel SW1463TEADbamfbw
 longLabel SW1463TEADbamfbw
 type bigWig
@@ -259,7 +259,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track CL40GFPrscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/CL40_GFP_r_scale.bw
+bigDataUrl tracks/CL40_GFP_r_scale.bw
 shortLabel CL40GFPrscalebw
 longLabel CL40GFPrscalebw
 type bigWig
@@ -273,7 +273,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track CL40TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/CL40_TEAD.bam.r.bw
+bigDataUrl tracks/CL40_TEAD.bam.r.bw
 shortLabel CL40TEADbamrbw
 longLabel CL40TEADbamrbw
 type bigWig
@@ -287,7 +287,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track COLO320GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/COLO320_GFP.bam.r.bw
+bigDataUrl tracks/COLO320_GFP.bam.r.bw
 shortLabel COLO320GFPbamrbw
 longLabel COLO320GFPbamrbw
 type bigWig
@@ -301,7 +301,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track COLO320TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/COLO320_TEAD.bam.r.bw
+bigDataUrl tracks/COLO320_TEAD.bam.r.bw
 shortLabel COLO320TEADbamrbw
 longLabel COLO320TEADbamrbw
 type bigWig
@@ -315,7 +315,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track GTG7GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/GTG7_GFP.bam.r.bw
+bigDataUrl tracks/GTG7_GFP.bam.r.bw
 shortLabel GTG7GFPbamrbw
 longLabel GTG7GFPbamrbw
 type bigWig
@@ -329,7 +329,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track GTG7TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/GTG7_TEAD.bam.r.bw
+bigDataUrl tracks/GTG7_TEAD.bam.r.bw
 shortLabel GTG7TEADbamrbw
 longLabel GTG7TEADbamrbw
 type bigWig
@@ -343,7 +343,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HT55GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HT55_GFP.bam.r.bw
+bigDataUrl tracks/HT55_GFP.bam.r.bw
 shortLabel HT55GFPbamrbw
 longLabel HT55GFPbamrbw
 type bigWig
@@ -357,7 +357,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HT55TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HT55_TEAD.bam.r.bw
+bigDataUrl tracks/HT55_TEAD.bam.r.bw
 shortLabel HT55TEADbamrbw
 longLabel HT55TEADbamrbw
 type bigWig
@@ -371,7 +371,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HUTU80GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HUTU80_GFP.bam.r.bw
+bigDataUrl tracks/HUTU80_GFP.bam.r.bw
 shortLabel HUTU80GFPbamrbw
 longLabel HUTU80GFPbamrbw
 type bigWig
@@ -385,7 +385,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track HUTU80TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/HUTU80_TEAD.bam.r.bw
+bigDataUrl tracks/HUTU80_TEAD.bam.r.bw
 shortLabel HUTU80TEADbamrbw
 longLabel HUTU80TEADbamrbw
 type bigWig
@@ -399,7 +399,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LOVOGFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LOVO_GFP.bam.r.bw
+bigDataUrl tracks/LOVO_GFP.bam.r.bw
 shortLabel LOVOGFPbamrbw
 longLabel LOVOGFPbamrbw
 type bigWig
@@ -413,7 +413,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LOVOTEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LOVO_TEAD.bam.r.bw
+bigDataUrl tracks/LOVO_TEAD.bam.r.bw
 shortLabel LOVOTEADbamrbw
 longLabel LOVOTEADbamrbw
 type bigWig
@@ -427,7 +427,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS180GFPrscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS180_GFP_r_scale.bw
+bigDataUrl tracks/LS180_GFP_r_scale.bw
 shortLabel LS180GFPrscalebw
 longLabel LS180GFPrscalebw
 type bigWig
@@ -441,7 +441,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS180TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS180_TEAD.bam.r.bw
+bigDataUrl tracks/LS180_TEAD.bam.r.bw
 shortLabel LS180TEADbamrbw
 longLabel LS180TEADbamrbw
 type bigWig
@@ -455,7 +455,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS411NGFPrscalebw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS411N_GFP_r_scale.bw
+bigDataUrl tracks/LS411N_GFP_r_scale.bw
 shortLabel LS411NGFPrscalebw
 longLabel LS411NGFPrscalebw
 type bigWig
@@ -469,7 +469,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track LS411TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/LS411_TEAD.bam.r.bw
+bigDataUrl tracks/LS411_TEAD.bam.r.bw
 shortLabel LS411TEADbamrbw
 longLabel LS411TEADbamrbw
 type bigWig
@@ -483,7 +483,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track MDST8GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/MDST8_GFP.bam.r.bw
+bigDataUrl tracks/MDST8_GFP.bam.r.bw
 shortLabel MDST8GFPbamrbw
 longLabel MDST8GFPbamrbw
 type bigWig
@@ -497,7 +497,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track MDST8TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/MDST8_TEAD.bam.r.bw
+bigDataUrl tracks/MDST8_TEAD.bam.r.bw
 shortLabel MDST8TEADbamrbw
 longLabel MDST8TEADbamrbw
 type bigWig
@@ -511,7 +511,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track SW1463GFPbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/SW1463_GFP.bam.r.bw
+bigDataUrl tracks/SW1463_GFP.bam.r.bw
 shortLabel SW1463GFPbamrbw
 longLabel SW1463GFPbamrbw
 type bigWig
@@ -525,7 +525,7 @@ viewLimits 1:200
 windowingFunction maximum
 
 track SW1463TEADbamrbw
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/leandrofm/TEAD/SW1463_TEAD.bam.r.bw
+bigDataUrl tracks/SW1463_TEAD.bam.r.bw
 shortLabel SW1463TEADbamrbw
 longLabel SW1463TEADbamrbw
 type bigWig
