@@ -50,7 +50,7 @@ prompt-toolkit==3.0.5     # via ipython
 ptyprocess==0.6.0         # via pexpect, terminado
 pybigwig==0.3.17          # via coolbox
 pyfaidx==0.5.9            # via cooler
-pygments==2.6.1           # via ipython, nbconvert
+pygments==2.7.4           # via ipython, nbconvert
 pypairix==0.3.7           # via cooler
 pyparsing==2.4.7          # via matplotlib, packaging
 pyrsistent==0.16.0        # via jsonschema
